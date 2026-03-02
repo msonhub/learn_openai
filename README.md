@@ -1,4 +1,1 @@
-# learn_openai
-# learn_openai
-# learn_openai
-# learn_openai
+OpenAI and AzureOpenAI exercises.
